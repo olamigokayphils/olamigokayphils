@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Ola; Managing Partner at Ancla Technologies Ltd (AnclaTechs™), Lagos, Nigeria. AnclaTechs is a global software engineering and data analytics company.
+My name is **Ola**; Managing Partner at **Ancla Technologies Ltd** (AnclaTechs™); Headquartered in Lagos, Nigeria. 
+AnclaTechs is a global software engineering and data analytics company.
 
 <br/>
 <br/>
