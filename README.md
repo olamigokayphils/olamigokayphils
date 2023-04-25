@@ -9,6 +9,8 @@ I share a profound interest in Automation and Self-driving technologies, hopeful
 
 I'm very much open to opportunities & collaboration. (ola.tech@pm.me)
 
+<a href="https://stackexchange.com/users/15942784/olamigoke-philip"><img src="https://stackexchange.com/users/flair/15942784.png" width="208" height="58" alt="profile for Olamigoke Philip on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Olamigoke Philip on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
 <br/>
 <br/>
 <a href="https://www.linkedin.com/in/olamigokayphils/">
