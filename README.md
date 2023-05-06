@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-My name is **Ola**; Software Engineer, Managing Partner at [**Ancla Technologies Ltd** (AnclaTechs™)](https://anclatechs.com); Headquartered in Lagos, Nigeria. 
-AnclaTechs is a global software engineering and data analytics company.
+My name is **Ola**; a Software Engineer.
 
-I have extensive experience on Software architecture. I try to keep up with the newest technologies and i'm able to come up with impressive solutions; my ability to relate, manage and involve a team to ease development, meet project requirements while keeping stability with understandable compromises is perceived to be excellent by Clients & Partners.
+Over the last decade, I have built extensive experience on Software architecture. I try to keep up with the newest technologies and i'm able to come up with impressive solutions; my ability to relate, manage and involve a team to ease development, meet project requirements while keeping stability with understandable compromises is perceived to be excellent by Clients & Partners.
 
-I share a profound interest in Automation and Self-driving technologies, hopefully i'm able to gear the company and/or a partnered firm towards that direction in years to come.
+I share a profound interest in Automation and Self-driving technologies, hopefully i'm able to gear my company and/or a partnered firm towards that direction in years to come.
 
 I'm very much open to opportunities & collaboration. (ola.tech@pm.me)
 
