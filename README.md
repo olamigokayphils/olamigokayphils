@@ -2,7 +2,7 @@
 
 My name is **Ola**; a Software Engineer.
 
-Over the last decade, I have built extensive experience on Software architecture. I try to keep up with the newest technologies and i'm able to come up with impressive solutions; my ability to relate, manage and involve a team to ease development, meet project requirements while keeping stability with understandable compromises is perceived to be excellent by Clients & Partners.
+Over the last decade, I have worked on technology requirement for multiple industries building extensive experience on Software architecture. I try to keep up with the newest technologies and i'm able to come up with impressive solutions; my ability to relate, manage and involve a team to ease development, meet project requirements while keeping stability with understandable compromises is perceived to be excellent by Clients & Partners.
 
 I share a profound interest in Automation and Self-driving technologies, hopefully i'm able to gear my company and/or a partnered firm towards that direction in years to come.
 
