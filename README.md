@@ -33,7 +33,3 @@ I'm very much open to opportunities & collaboration. (ola.tech@pm.me)
 -   🌱 I teach programming and mentor Junior developers in my free time.
 -   📫 Reach me: ola.tech@pm.me
 -   ⚡ Fun fact: My expertise cuts across Technology, Business Development, Sales and Marketing.
-
-<br/>
-
-[![Ola's github stats](https://github-readme-stats.vercel.app/api?username=olamigokayphils&hide_rank=true&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
